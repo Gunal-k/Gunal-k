@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gunal-k
-- 👀 I’m interested in Software Engineering
+- 👀 Aspiring Software Developer
 - 🌱 I’m currently learning BCA
 
 <!---
