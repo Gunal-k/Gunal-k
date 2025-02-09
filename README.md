@@ -26,9 +26,9 @@
 # 📊 GitHub Stats:
 <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=Gunal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunal-k&theme=dark&hide_border=false" alt="GitHub Streak"/></td> </tr> <tr> <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/></td> </tr> </table>
 
----
+<!---
 ![](https://komarev.com/ghpvc/?username=Gunal-k&style=for-the-badge)
-
+--->
 ---
 ## 💙 Thank You for Visiting!  
 🙌 Feel free to connect, explore my repositories, and collaborate.  
