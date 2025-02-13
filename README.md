@@ -26,9 +26,11 @@
 # 📊 GitHub Stats:
 <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=Gunal-k&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/></td>
 <!--   <td><img src="https://streak-stats.demolab.com/?user=Gunal-k&theme=dark&hide_border=false" alt="GitHub Streak"/></td> 
-</tr> <tr> --> <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/></td> </tr>
+</tr> <tr> --> <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunal-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/></td> </tr>
+ <tr>
+ <td colspan="2><img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunal-k&theme=github-dark" alt="GitHub Contribution Graph"/></td></tr>
  </table>
- <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunal-k&theme=github-dark" alt="GitHub Contribution Graph"/></td>
+<!--  <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunal-k&theme=github-dark" alt="GitHub Contribution Graph"/></td> -->
 
 
 <!---
